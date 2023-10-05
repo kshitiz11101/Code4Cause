@@ -1,0 +1,36 @@
+
+.offer{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.names{
+    margin-left: 70px;
+}
+.names span {
+    margin-right: 110px; /* Adjust the value to set the desired space between spans */
+  }
+  .enlarge-on-hover {
+    width: 180px;
+    height: auto;
+    transition: all 0.3s; /* Add a smooth transition effect */
+  }
+  
+  /* Larger size on hover */
+  .enlarge-on-hover:hover {
+    width: 200px; /* Adjust the size as needed */
+    height: auto;
+  }
+
+/* 
+.right-side{
+    background-color: rgb(202, 242, 249);
+  
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0px;
+    width:100%;
+
+}
+.left>div {
+    width: 30%;
+} */
